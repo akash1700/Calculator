@@ -1,4 +1,0 @@
-Hi.
-We are making an online calculator.
-We are working on Git
-on main branch
